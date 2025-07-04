@@ -5,7 +5,7 @@ tags:
 ---
 
 # Gemini CLI 安装步骤
-
+<!-- more -->
 ## 步骤一：安装 Node.js
 - 访问 [Node.js 官网](https://nodejs.org/) 下载安装包
 - 运行安装程序（默认设置即可）
@@ -13,6 +13,7 @@ tags:
   ```bash
   node -v
   ```
+
 
 ## 步骤二：安装 Gemini CLI
 - 使用全局安装命令：
